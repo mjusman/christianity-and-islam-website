@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: christianityandislam4peace.web.app/sitemap.xml
