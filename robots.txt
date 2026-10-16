@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: christianityandislam4peace.web.app/sitemap.xml
+Sitemap: https://christianityandislam4peace.web.app/sitemap.xml
